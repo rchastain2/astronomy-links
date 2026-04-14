@@ -9,7 +9,7 @@ Astronomy related links, categorized by language.
 
 ## JavaScript
 
-- [orrery](https://github.com/duffyg/orrery) (Geocentric model)
+- [orrery](https://github.com/duffyg/orrery) (geocentric model)
 - [Geocentric-Solar-System](https://github.com/Kharoh/Geocentric-Solar-System)
 
 ## Pascal
